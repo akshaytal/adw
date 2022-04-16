@@ -7,7 +7,7 @@ import org.openqa.selenium.support.PageFactory;
 
 public class Fbpage {
 	
-	@FindBy(xpath="")
+	@FindBy(xpath="aklsak;k;ak;a;k")
 	private WebElement user;
 	
 	@FindBy(xpath="")
